@@ -1,6 +1,6 @@
 #Items 项目
 
-item.raritanium.name=Raritanium水晶
+item.raritanium.name=Raritanium 水晶
 
 item.coin_penny.name=硬币
 item.coin_nickel.name=硬币
@@ -61,8 +61,8 @@ tile.torch_placer.name=火炬自动放置单元
 tile.bank.name=银行
 tile.network_cable.name=网线
 tile.network_cable_opaque.name=网线（不透明）
-tile.network_gate_connected.name=网关
-tile.network_gate_disabled.name=网关
+tile.network_gate_connected.name=网关（连接）
+tile.network_gate_disabled.name=网关（关闭）
 tile.interaction_interface.name=交互界面
 tile.interaction_terminal.name=互动终端
 
