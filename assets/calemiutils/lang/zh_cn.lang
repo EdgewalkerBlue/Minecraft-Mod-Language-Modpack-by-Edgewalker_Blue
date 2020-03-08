@@ -10,6 +10,20 @@ item.coin_dollar.name=硬币
 item.gold_chip.name=金芯片
 item.motor.name=马达
 
+item.knob_wood.name=Wood Knob
+item.knob_stone.name=Stone Knob
+item.knob_iron.name=Iron Knob
+item.knob_gold.name=Gold Knob
+item.knob_diamond.name=Diamond Knob
+item.knob_starlight.name=Starlight Knob
+
+item.sledgehammer_wood.name=Wood Sledgehammer
+item.sledgehammer_stone.name=Stone Sledgehammer
+item.sledgehammer_iron.name=Iron Sledgehammer
+item.sledgehammer_gold.name=Gold Sledgehammer
+item.sledgehammer_diamond.name=Diamond Sledgehammer
+item.sledgehammer_starlight.name=Starlight Sledgehammer
+
 item.security_wrench.name=安全扳手
 
 item.wallet.name=钱包
@@ -81,3 +95,6 @@ itemGroup.calemiutils.tabMain=Calemi的公用事业
 
 #Config
 config.title = Calemi的公用事业配置
+
+#Enchantments 附魔
+enchantment.crushing=压碎
