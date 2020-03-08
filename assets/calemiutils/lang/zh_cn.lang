@@ -10,19 +10,19 @@ item.coin_dollar.name=硬币
 item.gold_chip.name=金芯片
 item.motor.name=马达
 
-item.knob_wood.name=Wood Knob
-item.knob_stone.name=Stone Knob
-item.knob_iron.name=Iron Knob
-item.knob_gold.name=Gold Knob
-item.knob_diamond.name=Diamond Knob
-item.knob_starlight.name=Starlight Knob
+item.knob_wood.name=把手（木制）
+item.knob_stone.name=把手（石制）
+item.knob_iron.name=把手（铁制）
+item.knob_gold.name=把手（金制）
+item.knob_diamond.name=把手（钻石）
+item.knob_starlight.name=把手（星光）
 
-item.sledgehammer_wood.name=Wood Sledgehammer
-item.sledgehammer_stone.name=Stone Sledgehammer
-item.sledgehammer_iron.name=Iron Sledgehammer
-item.sledgehammer_gold.name=Gold Sledgehammer
-item.sledgehammer_diamond.name=Diamond Sledgehammer
-item.sledgehammer_starlight.name=Starlight Sledgehammer
+item.sledgehammer_wood.name=大锤（木制）
+item.sledgehammer_stone.name=大锤（石制）
+item.sledgehammer_iron.name=大锤（铁制）
+item.sledgehammer_gold.name=大锤（金制）
+item.sledgehammer_diamond.name=大锤（钻石）
+item.sledgehammer_starlight.name=大锤（星光）
 
 item.security_wrench.name=安全扳手
 
