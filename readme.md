@@ -5,10 +5,10 @@
 
 **模组目录：**
 * **1.7.10**
-* MineFerrisWheel（观览车）(https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.7.10/assets/mfw/lang)
+* [MineFerrisWheel（观览车）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.7.10/assets/mfw/lang)
 
 * **1.12.2**
-* better_diving（更好的潜水）
-* calemiutils（Calemi的公用事业）
-* effortlessbuilding（建筑辅助工具）
-* littletiles(LT小方块)
+* [better_diving（更好的潜水）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.12.2/assets/better_diving/lang/zh_cn.lang)
+* [calemiutils（Calemi的公用事业）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.12.2/assets/calemiutils/lang/zh_cn.lang)
+* [effortlessbuilding（建筑辅助工具）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/blob/1.12.2/assets/effortlessbuilding/lang/zh_cn.lang)
+* [LittleTiles(LT小方块)](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/blob/1.12.2/assets/littletiles/lang/zh_cn.lang)
