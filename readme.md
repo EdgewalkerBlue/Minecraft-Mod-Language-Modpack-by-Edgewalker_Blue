@@ -5,7 +5,7 @@
 
 **模组目录：**
 * **1.7.10**
-* [MineFerrisWheel（观览车）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.7.10/assets/mfw/lang)
+* [MineFerrisWheel（观览车）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.7.10/assets/mfw/lang/zh_CN.lang)
 
 * **1.12.2**
 * [better_diving（更好的潜水）](https://github.com/EdgewalkerBlue/Minecraft-Mod-Language-Modpack-by-Edgewalker_Blue/tree/1.12.2/assets/better_diving/lang/zh_cn.lang)
